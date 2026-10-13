@@ -1,1 +1,1 @@
-   Sesuai arahan dosen, tugas dikerjakan dengan Laravel saja.
+   Sesuai arahan dosen, tugas dikerjakan dengan memilih salah satu express atau laravel.
