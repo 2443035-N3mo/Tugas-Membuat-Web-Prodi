@@ -1,0 +1,1 @@
+   Sesuai arahan dosen, tugas dikerjakan dengan Laravel saja.
